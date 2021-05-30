@@ -1,6 +1,6 @@
 /**
-* Template Name: OnePage - v2.2.2
-* Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
+* Template Name: BottleGourd - v2.2.2
+* Template URL: https://bootstrapmade.com/BottleGourd-multipurpose-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
